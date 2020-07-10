@@ -8,15 +8,15 @@ const cities = [
         label: 'None'
     },
     {
-        value: '1',
+        value: 'New York',
         label: 'New York'
     },
     {
-        value: '2',
+        value: 'Chicago',
         label: 'Chicago'
     },
     {
-        value: '3',
+        value: 'Saigon',
         label: 'Saigon'
     }
 ];
@@ -27,15 +27,15 @@ const states = [
         label: 'None'
     },
     {
-        value: '11',
+        value: 'Florida',
         label: 'Florida'
     },
     {
-        value: '22',
+        value: 'Michigan',
         label: 'Michigan'
     },
     {
-        value: '33',
+        value: 'Texas',
         label: 'Texas'
     }
 ];
@@ -46,15 +46,15 @@ const countries = [
         label: 'None'
     },
     {
-        value: '111',
+        value: 'United States',
         label: 'United States'
     },
     {
-        value: '222',
+        value: 'Italy',
         label: 'Italy'
     },
     {
-        value: '333',
+        value: 'Vietnam',
         label: 'Vietnam'
     }
 ];
